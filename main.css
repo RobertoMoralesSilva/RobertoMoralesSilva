@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+	color: green;
+	}
+p {
+	color: #fff;
+	}
+h1 {
+	color: red;
+	front-size: 50px;
+	}
+.orange {
+	color: orange;
+	background-color: gray;
+	}
+.blue {
+	color: blue;
+	background-color: gray;
+}	
+.brown {
+	color: yellow;
+	background-color: gray;
+}
