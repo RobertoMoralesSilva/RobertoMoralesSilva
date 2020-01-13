@@ -1,7 +1,16 @@
 body {
 	background-color: black;
-	color: green;
 	}
+.header {
+	background-color: Yellow;
+}
+.section {
+	
+}
+.footer {
+	background-color: white;
+	color: black;
+}
 p {
 	color: #fff;
 	}
@@ -9,6 +18,10 @@ h1 {
 	color: red;
 	front-size: 50px;
 	}
+h3	{
+	background-color: black;
+	color: white;
+}
 .orange {
 	color: orange;
 	background-color: gray;
